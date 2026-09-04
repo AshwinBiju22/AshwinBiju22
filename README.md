@@ -1,5 +1,5 @@
 # Hey, I'm Ashwin  
-🎓 2nd-year Comp Sci student @ **Imperial College London**  
+🎓 3rd-year Comp Sci student @ **Imperial College London**  
 📊 Aspiring **Software Engineer** with a passion for ML, data, and trading systems  
 💡 Experienced in **full-stack development**, **machine learning**, and **low-latency data pipelines**    
 
